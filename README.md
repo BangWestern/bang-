@@ -1,3 +1,32 @@
+
+```
+          _____                    _____                    _____                    _____
+         /\    \                  /\    \                  /\    \                  /\    \
+        /::\    \                /::\    \                /::\____\                /::\    \
+       /::::\    \              /::::\    \              /::::|   |               /::::\    \
+      /::::::\    \            /::::::\    \            /:::::|   |              /::::::\    \
+     /:::/\:::\    \          /:::/\:::\    \          /::::::|   |             /:::/\:::\    \
+    /:::/__\:::\    \        /:::/__\:::\    \        /:::/|::|   |            /:::/  \:::\    \
+   /::::\   \:::\    \      /::::\   \:::\    \      /:::/ |::|   |           /:::/    \:::\    \
+  /::::::\   \:::\    \    /::::::\   \:::\    \    /:::/  |::|   | _____    /:::/    / \:::\    \
+ /:::/\:::\   \:::\ ___\  /:::/\:::\   \:::\    \  /:::/   |::|   |/\    \  /:::/    /   \:::\ ___\
+/:::/__\:::\   \:::|    |/:::/  \:::\   \:::\____\/:: /    |::|   /::\____\/:::/____/  ___\:::|    |
+\:::\   \:::\  /:::|____|\::/    \:::\  /:::/    /\::/    /|::|  /:::/    /\:::\    \ /\  /:::|____|
+ \:::\   \:::\/:::/    /  \/____/ \:::\/:::/    /  \/____/ |::| /:::/    /  \:::\    /::\ \::/    /
+  \:::\   \::::::/    /            \::::::/    /           |::|/:::/    /    \:::\   \:::\ \/____/
+   \:::\   \::::/    /              \::::/    /            |::::::/    /      \:::\   \:::\____\
+    \:::\  /:::/    /               /:::/    /             |:::::/    /        \:::\  /:::/    /
+     \:::\/:::/    /               /:::/    /              |::::/    /          \:::\/:::/    /
+      \::::::/    /               /:::/    /               /:::/    /            \::::::/    /
+       \::::/    /               /:::/    /               /:::/    /              \::::/    /
+        \::/____/                \::/    /                \::/    /                \::/____/
+         ~~                       \/____/                  \/____/
+
+
+
+```
+
+
 # bang-
 This is a computer version of the badass card game called BANG!
 
@@ -32,6 +61,12 @@ Ari Frankel
  4) Character name  
  5) Character type   
  *6) Weapon?*  
+
+[This application is released under ](https://opensource.org/licenses/MIT "MIT Licsense")
+
+The authors listed here make no claim spoken or implied to the original game's copyright or intellectual property.
+
+BANG! and dV Giochi are registered trademarks of daVinci Editrice S.R.L.
 
 [Here is a link to purchase the game](https://boardgamegeek.com/boardgame/3955/bang/files)
 (please note: we did not make the original card game, we do not get any money from this app - it's made just for fun).
