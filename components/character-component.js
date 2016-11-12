@@ -37,9 +37,11 @@ class App extends React.Component {
 
 		}
 	}
-
+	//we can add multiple Character class components for each player with different character props to differentiate 
 	render(){
+		<Character /> 
 		<Character />
+		<Character />	
 	}
-	}
+	
 }
