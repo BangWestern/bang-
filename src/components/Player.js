@@ -5,15 +5,35 @@
 
 import React, { Component } from 'react';
 
-class Card extends Component {
+class Player extends Component {
   constructor(props) {
-    super();
+    super(props);
+    this.state = {
+      character: {character: this.props.character}, //contains name, italianDescription, maxHealth, englishDescription, and ability
+      currentHealth: null,
+      cardCount: 4,
+      inJail: false,
+      hasDynamite: false,
+      shootRange: 1,
+      regularRange: 1,
+      ability: null,
+      role: null
+    }
   }
+
+  componentDidMount() {
+    this.setState({character: this.props.character});
+  }
+
+  ability(callback) {
+
+  }
+
   render() {
     return (
-      <h1>Card</h1>
-    );
+      <div>{this.state.character.name}</div>
+    )
   }
 }
 
-export default Card;
+export default Player;

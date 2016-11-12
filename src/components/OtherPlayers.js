@@ -8,6 +8,7 @@ class OtherPlayers extends Component {
   constructor(props) {
     super();
   }
+  
   render() {
     return (
       <h1>Other Players</h1>

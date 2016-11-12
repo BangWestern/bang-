@@ -8,27 +8,35 @@
 *****************************************/
 
 import React, { Component } from 'react';
-//import logo from '../styles/logo.svg';
+
+//IMPORT OTHER COMPONENTS
 import DrawDeck from './DrawDeck';
 import OtherPlayers from './OtherPlayers';
 import Player from './Player';
+
+//IMPORT STYLES
+//import logo from '../styles/logo.svg';
 import '../styles/App.css';
+
+//IMPORT SAMPLE DATA
+import characterData from '../data/sampleData';
 
 class App extends Component {
   constructor(props) {
     super();
   }
+
   render() {
     return (
       <div id="Board">
-        <div id="drawDeck">
+        <div className="drawDeck-container">
           <DrawDeck />
         </div>
-        <div id="otherPlayers">
+        <div className="otherPlayers-container">
           <OtherPlayers />
         </div>
-        <div id="player">
-          <Player />
+        <div className="player-container">
+          <Player character={characterData[0]}/>
         </div>
       </div>
     );
