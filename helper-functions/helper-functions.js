@@ -31,10 +31,10 @@ function lowerRegularRange (distance, player){
 	player.regularRange -= distance;
 }
 
-function lowerRange (distance, player){ 
-	player.enemySightRange -= distance;
+function increaseEnemySightRange (distance, player){ 
+	player.enemySightRange += distance;
 }
-function lowerShootingRange (distance, player){ 
+function lowerEnemySightRange (distance, player){ 
 	player.enemySightRange -= distance;
 }
 
