@@ -19,8 +19,8 @@
      \:::\/:::/    /               /:::/    /              |::::/    /          \:::\/:::/    /
       \::::::/    /               /:::/    /               /:::/    /            \::::::/    /
        \::::/    /               /:::/    /               /:::/    /              \::::/    /
-        \::/____/                \::/    /                \::/    /                \::/____/
-         ~~                       \/____/                  \/____/
+        \::/    /                \::/    /                \::/    /                \::/    /
+         \/____/                  \/____/                  \/____/                  \/____/
 
 
 
@@ -62,7 +62,7 @@ Ari Frankel
  5) Character type   
  *6) Weapon?*  
 
-[This application is released under ](https://opensource.org/licenses/MIT "MIT Licsense")
+This application is released under the [MIT License](https://opensource.org/licenses/MIT "MIT Licsense")
 
 The authors listed here make no claim spoken or implied to the original game's copyright or intellectual property.
 
